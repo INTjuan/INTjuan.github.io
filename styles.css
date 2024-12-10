@@ -42,13 +42,13 @@ header{
     width: 45px;
     height: 45px;
     margin-right: auto;
-    background-image: url('Img/logoplaceholder2.png');
+    background-image: url('img/logoplaceholder2.png');
     background-size: cover;
     transition: background-image 0.3s ease-in-out;
 }
 
 .logo:hover{
-    background-image: url('Img/logoplaceholder.png');
+    background-image: url('img/logoplaceholder.png');
 }
 
 .link-nav{
